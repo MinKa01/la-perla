@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Cart</string>
+    <string name="titulo">Mi compra</string>
+
+    <string name="btnPagar">Pagar</string>
+
+    <string name="plato1Name">Parihuela</string>
+    <string name="plato1Price">S/ 20.00</string>
+    <string name="plato1Cant">1</string>
+
+    <string name="plato2Name">Arroz con Mariscos</string>
+    <string name="plato2Price">S/ 20.00</string>
+    <string name="plato2Cant">1</string>
+
+    <string name="plato3Name">Jalea Mixta</string>
+    <string name="plato3Price">S/ 20.00</string>
+    <string name="plato3Cant">1</string>
+
+    <string name="subTotal">Sub Total</string>
+    <string name="subTotalPrice">S/ 60.00</string>
+    <string name="delivery">Delivery</string>
+    <string name="deliveryPrice">S/ 15.00</string>
+    <string name="total">Total</string>
+    <string name="totalPrice">S/ 75.00</string>
+
+    <string name="description1arrow">Icono arrow</string>
+    <string name="description1linea">Icono linea</string>
+
+    <string name="description2plato1">Imagen del plato 1</string>
+    <string name="description3plato1sc">Icono decrementar</string>
+    <string name="description4plato1ac">Icono incrementar</string>
+    <string name="description5plato2">Imagen del plato 2</string>
+    <string name="description6plato2sc">Icono decrementar</string>
+    <string name="description7plato2ac">Icono incrementar</string>
+    <string name="description8plato3">Imagen del plato 3</string>
+    <string name="description9plato3sc">Icono decrementar</string>
+    <string name="description10plato3ac">Icono incrementar</string>
+
+
+    <string name="activity2_title">Iniciar Sesión</string>
+    <string name="activity2_correo">Correo</string>
+    <string name="activity2_correoHint">Ingrese su correo</string>
+    <string name="activity2_contrasena">Contraseña</string>
+    <string name="activity2_contrasenaHint">Ingrese su contraseña</string>
+    <string name="activity2_btnIngresar">Ingresar</string>
+    <string name="activity2_text1">¿Aun no estás registrado?</string>
+    <string name="activity2_link">Registrarse ahora</string>
+    <string name="activity2_logo">Imagen del logo</string>
+
+</resources>
